@@ -2,7 +2,7 @@ Pod::Spec.new do |spec|
     spec.name                     = 'serverApi'
     spec.version                  = '1.0.0-alpha01'
     spec.homepage                 = 'https://github.com/wasded/testCocoapods'
-    spec.source                   = https://github.com/wasded/testCocoapods
+    spec.source                   = 'https://github.com/wasded/testCocoapods'
     spec.authors                  = ''
     spec.license                  = ''
     spec.summary                  = 'server-api'
