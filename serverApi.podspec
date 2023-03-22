@@ -11,6 +11,6 @@ Pod::Spec.new do |spec|
     spec.ios.deployment_target = '14.0'
                 
 
-    s.ios.vendored_frameworks = 'server_api.xcframework'
+    spec.ios.vendored_frameworks = 'server_api.xcframework'
                 
 end
