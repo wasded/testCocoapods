@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
     spec.name                     = 'serverApi'
     spec.version                  = '1.0.0-alpha01'
-    spec.homepage                 = ''
+    spec.homepage                 = 'link to homepage'
     spec.source                   = { :git => 'git@github.com:wasded/testCocoapods.git' }
     spec.authors                  = ''
     spec.license                  = ''
