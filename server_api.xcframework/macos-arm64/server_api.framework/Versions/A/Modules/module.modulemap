@@ -1,0 +1,8 @@
+framework module server_api {
+    umbrella header "server_api.h"
+
+    export *
+    module * { export * }
+
+    use Foundation
+}
